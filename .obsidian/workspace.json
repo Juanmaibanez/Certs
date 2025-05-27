@@ -152,13 +152,13 @@
             }
           },
           {
-            "id": "f51cd59450c73060",
+            "id": "38b4fac4f261afa5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +177,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f51cd59450c73060",
+  "active": "5b407316eecfc86c",
   "lastOpenFiles": [
     "Test EEI2E (Respuestas).md",
     "Test EEI2E (Preguntas).md",
